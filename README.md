@@ -1,6 +1,6 @@
 -Hi, I’m Davies 
 
--I’m interested in Robotics and Automation.
+-I’m interested in Robotics and Autonomous systems.
 - A ros developer. 
 -I’m looking to collaborate on Autonomous  Ground Robot projects and Robotics in general..
 
