@@ -9,6 +9,6 @@
      linkedin : https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina-57930417a
  
  
- presented at gazebo community group meeting,link below:
+ presented at Gazebo community  meeting: Wave Energy Harvesting Simukation with MBARI:
  https://vimeo.com/801385745
     
