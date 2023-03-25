@@ -2,6 +2,8 @@
 
 -I’m interested in Robotics and Autonomous systems.
 - A ROS developer and also Navigation Lead Engineer at Islington Robotica United Kingdom(UK).
+
+
 -I’m looking to collaborate on Autonomous  Ground Robot projects and Robotics in general..
 
 -How to reach me  
