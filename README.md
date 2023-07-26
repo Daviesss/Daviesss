@@ -13,4 +13,6 @@
  
  Presented at Gazebo community  meeting: Wave Energy Harvesting Simulation with MBARI:
  https://vimeo.com/801385745
-    
+
+
+ROSDEVDAY 2023 SPEAKER - https://www.linkedin.com/posts/the-construct_rosdevday-mapping-localization-activity-7083064607187083264-3k_Y?utm_source=share&utm_medium=member_desktop
