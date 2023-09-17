@@ -16,3 +16,6 @@
 
 
 ROSDEVDAY 2023 SPEAKER - https://www.linkedin.com/posts/the-construct_rosdevday-mapping-localization-activity-7083064607187083264-3k_Y?utm_source=share&utm_medium=member_desktop
+
+
+ROSCON 2023 diversity scholar 2023 (NEW ORLEANS. Louisiana).
