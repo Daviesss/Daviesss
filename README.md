@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Davisogunsina@gmail.com , https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina/**
 
-- ⚡ Fun fact **I love watching movies , Troubleshooting Code and Building robots.**
+- ⚡ Fun fact **I love watching movies , Troubleshooting Code , writing code and Building robots.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
