@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davies Iyanuoluwa Ogunsina</h1>
-<h3 align="center">I'm interested in Robotics and Autonomous systems. A ROS developer and Full Stack Robotics Engineer(E.I.R) at Orangewood. -I’m looking to collaborate on Autonomous Ground Robot projects and Robotics in general..</h3>
+<h3 align="center">I'm interested in Robotics and Autonomous systems. -I’m looking to collaborate on Autonomous Ground Robot projects and Robotics in general..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviesss&label=Profile%20views&color=0e75b6&style=flat" alt="daviesss" /> </p>
 
