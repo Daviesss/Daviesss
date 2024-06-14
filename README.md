@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **ROS , ROS 2 Robotics and Autonomous systems projects**
 
-- 💬 Ask me about **ROS, ROS 2 , C.A.D , Autonomous systems , C++ , python , SLAM ,Move-it , Writing SDK for Robots,  Navigation**
+- 💬 Ask me about **ROS, ROS 2 , C.A.D , Autonomous systems , C++ , python , SLAM ,Move-it , Writing SDK's for Robots,  Navigation**
 
 - 📫 How to reach me **Davisogunsina@gmail.com , https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina/**
 
