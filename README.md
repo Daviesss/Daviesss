@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ROS, ROS 2 , Robotics and Autonomous systems**
 
-- 🤝 I’m looking to contibute/collaborate on  **ROS , ROS 2 Robotics and Autonomous systems projects**
+- 🤝 I’m looking to contribute/collaborate on  **ROS , ROS 2 Robotics and Autonomous systems projects**
 
 - 💬 Ask me about **ROS, ROS 2 , C.A.D , Autonomous systems , C++ , python , SLAM ,Move-it , Writing SDK's and API's for Robots,  Navigation**
 
