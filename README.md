@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviesss&label=Profile%20views&color=0e75b6&style=flat" alt="daviesss" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/___mufasaa" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/___mufasaa?logo=twitter&style=for-the-badge" alt="https://twitter.com/___mufasaa" /></a> </p>
-
 - 👯 I’m looking to collaborate on **ROS, ROS 2 , Robotics and Autonomous systems**
 
 - 🤝 I’m looking to contribute/collaborate on  **ROS , ROS 2 Robotics and Autonomous systems projects**
