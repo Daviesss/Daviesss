@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to contribute/collaborate on  **ROS , ROS 2 Robotics and Autonomous systems projects**
 
-- 💬 Ask me about Robotics**
+- 💬 Ask me about Robotics
 
 - 📫 How to reach me **Davisogunsina@gmail.com , https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina/**
 
