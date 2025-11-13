@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviesss&label=Profile%20views&color=0e75b6&style=flat" alt="daviesss" /> </p>
 
-- 👯 I’m looking to collaborate on **ROS, ROS 2 , Robotics and Autonomous systems**
-
 - 🤝 I’m looking to contribute/collaborate on  **ROS , ROS 2 Robotics and Autonomous systems projects**
 
-- 💬 Ask me about **ROS, ROS 2 , C.A.D , Autonomous systems , C++ , python , SLAM ,Move-it , Writing SDK's and API's for Robots,  Navigation**
+- 💬 Ask me about **ROS, ROS 2 , C.A.D , Autonomous systems , C++ , python3 , SLAM ,Move-it , Writing SDK's and API's for Robots,  Navigation**
 
 - 📫 How to reach me **Davisogunsina@gmail.com , https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina/**
 
