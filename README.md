@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Davies Iyanuoluwa Ogunsina . A ROSCON Diversity Scholar (2023 New Orleans USA and Odense, Denmark 2024),I have demonstrated leadership and excellence within the ROS Naija (ROS Community Nigeria), where I serve as the Community Lead. Under my leadership, the community has grown as a hub for knowledge-sharing, mentorship, and collaboration among robotics enthusiasts and professionals across Africa.</h1>
+<h1 align="center">Hi 👋, I'm Davies Iyanuoluwa Ogunsina</h1>
 <h3 align="center">I'm interested in Robotics and Autonomous systems. -I’m looking to collaborate on Autonomous Ground Robot projects and Robotics in general..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviesss&label=Profile%20views&color=0e75b6&style=flat" alt="daviesss" /> </p>
 
-- 🤝 I’m looking to contribute/collaborate on  **ROS , ROS 2 Robotics and Autonomous systems projects**
+- 🤝 I’m looking to contribute/collaborate on  **ROS , ROS 2 Robotics and Autonomous systems projects** A Roscon diversity Scholar (2023 New Orleans USA and Odense, Denmark 2024),I have demonstrated leadership and excellence within the ROS Naija (ROS Community), where I serve as the Community Lead. Under my leadership, the community has grown as a hub for knowledge-sharing, mentorship, and collaboration among robotics enthusiasts and professionals across africa.
 
 - 💬 Ask me about Robotics
 
 - 📫 How to reach me **Davisogunsina@gmail.com , https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina/**
 
-Conferences attended : ROSCON2024 and ROSCON2025 
+
 
 
 
