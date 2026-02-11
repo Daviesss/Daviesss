@@ -7,7 +7,7 @@
 
 - 💬 Ask me about Robotics
 
-- 📫 How to reach me **Davisogunsina@gmail.com , https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina/**
+- 📫 How to reach me **Davisogunsina at gmail dot com , https://www.linkedin.com/in/davies-iyanuoluwa-ogunsina/**
 
 
 
